@@ -13,6 +13,11 @@ Main_properties_20220924_Add a README file
  PYTHON
  R
  SQL
+ *GO
+ *Rust
+ 
+ *퀀트투자 (Quant)
+ https://hyunyulhenry.github.io/quant_cookbook/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8.html
  
 
 
