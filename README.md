@@ -134,6 +134,13 @@ https://lubridate.tidyverse.org/
 
 https://www.efinancialcareers.com/jobs-France-Puteaux-Developer_Full_Stack.id14978043?_ga=2.42725157.1865658986.1663999073-1283388429.1663999073#xd_co_f=N2I0NGFiZGMtMzA3NS00MDM2LWFlYTItNzljODBlY2JkMDJm~
 
+>> Development/Programming Jobs
+>> $100K ~ $150K (원화 1억~ 2억 선_월 1200 ~ 1800선) 
+https://www.efinancialcareers.com/jobs-Technology-DevelopmentProgramming.b169
+
+
+
+
 
  Developer Full Stack
 https://www.efinancialcareers.co.uk/jobs-France-Puteaux-Developer_Full_Stack.id14978043
