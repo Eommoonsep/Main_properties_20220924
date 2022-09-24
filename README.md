@@ -148,3 +148,31 @@ https://www.efinancialcareers.co.uk/jobs-France-Puteaux-Developer_Full_Stack.id1
 
   Full Stack Java Software Engineer
 https://www.efinancialcareers.co.uk/jobs-USA-CA-San_Francisco-Full_Stack_Java_Software_Engineer.id16999561
+
+
+# 샘플
+
+Selby Jennings Buyside
+Trading Systems Developer
+Selby Jennings Buyside  Manhattan, United States
+Posted about 13 hours ago  Hybrid  Permanent  Negotiable
+Company is a global multi-strategy hedge fund currently looking to expand by adding an engineer to their quantitative trading platform development team. They've been in the space for around 30 years now, but the trading system this engineer would be working on is still in the early stages of development. They also have an excellent culture, with a variety of events and benefits that encourage their developers to work with other teams and invest in themselves.
+Senior Trading Systems Developer
+Company Summary: Company is a global multi-strategy hedge fund that is currently handling 13B in AUM, and is looking to expand by adding an engineer to their quantitative trading platform development team. They've been in the space for around 30 years now, but the trading system this engineer would be working on is 2-3 years old and still in the early stages of development. They also have an excellent culture and focus on work life balance, with a variety of events and benefits that encourage their developers to work with other teams and invest in themselves.
+The Trading Systems Developer will be responsible for
+* Developing an in-house OMS system for a quantitative trading platform
+* Developing functions of the trading platform that manage market data, execution, simulation, positions, and risk.
+* Working closely with portfolio managers and researchers to build trading and research infrastructure.
+* Keeping up to date with latest technology and language features to keep team on the cutting edge.
+The Trading Systems Developer should have the following qualifications
+* Bachelor's degree in Computer Science, Mathematics, or a closely related field
+* 5+ years of C++ experience
+* Understanding of data structures within context of computer science
+* Ability to work on-sight in NY area
+* Previous experience working with buy- or sell-side trading systems.
+Benefits
+* Unlimited PTO, with an encouraged minimum of 2 days per month
+* Weekly calls with every tech team, allowing chance for full visibility of what they're working on and who can be collaborated with.
+* Bi-annual conferences in NY where you get to meet the teams from offices around the world and attend conferences about the latest tech.
+
+If this role is of interest to you, please dono't hesitate to reach out to me at
