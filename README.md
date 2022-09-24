@@ -132,7 +132,7 @@ https://lubridate.tidyverse.org/
 # 세계적인 채용 커리어사이트
 [https://www.efin](https://www.efinancialcareers.co.uk/)
 
-https://www.efinancialcareers.co.uk/jobs/c%2B%2B/in-united-kingdom?q=c%2B%2B&location=United+Kingdom&latitude=55.37805&longitude=-3.43597&countryCode=GB&locationPrecision=Country&radius=40&radiusUnit=km&pageSize=10&currencyCode=GBP&language=en
+https://www.efinancialcareers.com/jobs-France-Puteaux-Developer_Full_Stack.id14978043?_ga=2.42725157.1865658986.1663999073-1283388429.1663999073#xd_co_f=N2I0NGFiZGMtMzA3NS00MDM2LWFlYTItNzljODBlY2JkMDJm~
 
 
  Developer Full Stack
