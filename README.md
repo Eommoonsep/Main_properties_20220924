@@ -76,13 +76,13 @@ https://lubridate.tidyverse.org/
 
 
 
-# Project List 2022
+# Service Operating Project List 2022
 
-1.
-2.
-3.
-4.
-5.
+1. WebSite HD   1131 ~ 1231
+2. WebSite SK   1101 ~ 1131
+3. WebSite WRAP Analysis  0924 ~ 1031
+4. WebSite ** 
+5. WebSite ** 
 
 
 
