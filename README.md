@@ -4,6 +4,12 @@ Main_properties_20220924_Add a README file
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 #Alias
 
+# Tstory 
+https://eomstory.tistory.com/
+
+# 네이버블로그
+https://m.blog.naver.com/munseob1946
+
 
 
 
