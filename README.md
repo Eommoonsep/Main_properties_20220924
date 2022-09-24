@@ -121,5 +121,8 @@ https://lubridate.tidyverse.org/
 https://www.efinancialcareers.co.uk/jobs/c%2B%2B/in-united-kingdom?q=c%2B%2B&location=United+Kingdom&latitude=55.37805&longitude=-3.43597&countryCode=GB&locationPrecision=Country&radius=40&radiusUnit=km&pageSize=10&currencyCode=GBP&language=en
 
 
+ Developer Full Stack
+https://www.efinancialcareers.co.uk/jobs-France-Puteaux-Developer_Full_Stack.id14978043
+
 
 
