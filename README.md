@@ -27,6 +27,18 @@ Main_properties_20220924_Add a README file
  
 
 
+─────────────────────────────────────────────────────────────────────────
+# Q/A 
+  OMS SYSTEM : 주문관리시스템
+  permanent : 영구적인
+  APEX? : salesforce 언어
+  CI, CD? : Continuous Integration 
+  CI>> 빌드/테스트 자동화 과정 과정입니다. CI는 개발자를 위한 자동화 프로세스인 지속적인 통합(Continuous Integration)을 의미합니다
+  CD>> CD는 간단히 말하면 배포 자동화 과정입니다. CD는 지속적인 서비스 제공(Continuous Delivery) 또는 지속적인 배포(Continuous Deployment)를 의미하며 이 두 용어는 상호 교환적으로 사용됩니다.
+  
+  TDD? :  에자일 개발론 중 테스트 주도 개발은 매우 짧은 개발 사이클을 반복하는 소프트웨어 개발 프로세스 중 하나이다. 
+
+
 
 ─────────────────────────────────────────────────────────────────────────
 # GitHub
